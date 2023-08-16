@@ -15,7 +15,6 @@ I have explored these :
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>   <img src="https://img.icons8.com/color/48/000000/css3.png"/>   <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rohit-Mene&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Rohit-Mene/Rohit-Mene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
