@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I am a software engineer, and these are my products. Rohit Mene</h1>
-- 🌱 I’m currently learning **JavaScript frameworks**
-- 💬 Ask me about **React,Node.js,Express.js,Java,Spring Boot, MySQL, System Design**
-
+<h2 align="left"> 👋 Hey hey hey! I'm a coding ninja, and my software projects are my shurikens! If you find yourself lost in my code forest, don't worry - just message me on LinkedIn, and I'll be your guide!</h1>
+- 🌱 I’m currently learning ** JavaScript frameworks **
+<br>
+<br>
+- 💬 Ask me about ** React, Node.js, Express.js, Java, Spring Boot, MySQL, System Design **
+<br>
+<br>
 - 📄 Know about my experiences **https://drive.google.com/file/d/1_fFcO0xyM6P4fQI1NOBX7k7wxrJPK71l/view?usp=sharing**
 
 
