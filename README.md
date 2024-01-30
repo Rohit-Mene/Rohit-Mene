@@ -1,31 +1,44 @@
-👋 **Welcome to My GitHub Playground!**
+<h1 align="center">Hi 👋, I am a software engineer and this is the world where I create my work. Rohit Mene</h1>
+- 🌱 I’m currently learning **JavaScript frameworks**
+- 💬 Ask me about **React,Node.js,Express.js,Java,Spring Boot, MySQL, System Design**
 
-Greetings, fellow tech enthusiasts! I'm [Your Name], a versatile software developer who thrives on turning lines of code into impactful solutions. My journey through the realms of backend, frontend, and databases has equipped me with a diverse skill set that I'm excited to share with the world.
+- 📄 Know about my experiences **https://drive.google.com/file/d/1_fFcO0xyM6P4fQI1NOBX7k7wxrJPK71l/view?usp=sharing**
 
-🚀 **Diving into the Tech Multiverse**
+<div> <a href="https://www.linkedin.com/in/rohit-mene" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/rohit-mene" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohit-mene" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rohit-mene" height="30" width="40" /></a><a href="https://www.leetcode.com/rohitmene" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="rohitmene" height="30" width="40" /></a></p>
 
-In my coding ventures, I've navigated through an array of programming languages, from the robust foundations of Java to the dynamic elegance of JavaScript and the scripting prowess of Python. My toolkit includes frameworks and libraries like NodeJS for crafting responsive applications and ReactJS for building engaging user interfaces. Meanwhile, the Spring framework and Spring Boot have been my allies in creating scalable and efficient backend systems.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/logo-title.svg" alt="Chart Js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/mochajs-icon.svg" alt="Mochajs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-📊 **Taming Data, Shaping Architecture**
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-mene&layout=compact&theme=dark" alt=rohit-mene />
 
-As a craftsman of data, I've harnessed the capabilities of databases like MySQL, MongoDB, Redis, and Apache Cassandra. These technologies have allowed me to weave data into the fabric of applications, ensuring speed and reliability. But it's not just about data; it's about designing software that stands the test of time. With a firm grasp of OOP principles, data structures, and algorithms, I sculpt software architectures that are as robust as they are elegant.
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-mene&show_icons=true&locale=en&theme=dark" alt="rohit-mene" /></p>
 
-☁️ **From Code to Cloud to DevOps**
-
-My journey doesn't end with code. I've embraced the cloud revolution, mastering AWS Cloud Infrastructure to build applications that scale on demand. Docker and Linux are my trusted companions in crafting efficient development and deployment pipelines. The art of DevOps is ingrained in my workflow, ensuring that the journey from code to production is as smooth as possible.
-
-🔗 **Collaboration: The Heartbeat of Innovation**
-
-Version control is the heartbeat of collaboration, and GitHub and GitLab are my conduits for orchestrating seamless teamwork. The transparency and accountability they provide are indispensable in creating software that stands tall.
-
-🌱 **Perpetual Student of Tech**
-
-The world of technology is dynamic, and I'm an eternal student. Every project is an opportunity to learn, experiment, and innovate. New tools, languages, and frameworks are my playground, and I'm always eager to push the boundaries of what's possible.
-
-🤝 **Join Me on This Journey**
-
-Whether you're here to explore my repositories, collaborate on groundbreaking projects, or connect with a fellow tech fan, I'm thrilled to have you aboard. Let's shape the future through code and one commit at a time. Feel free to reach out, contribute ideas, or drop a virtual "Hello!" Together, we can turn lines of code into engines of innovation.
-
-[LinkedIn](https://www.linkedin.com/in/rohit-mene/)
-
-Happy coding! 🚀👨‍💻
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-mene&theme=dark" alt="rohit-mene" /></p>
