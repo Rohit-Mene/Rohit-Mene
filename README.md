@@ -5,7 +5,7 @@
 - 💬 Ask me about ** React, Node.js, Express.js, Java, Spring Boot, MySQL, System Design **
 <br>
 <br>
-- 📄 Know about my experiences **https://drive.google.com/file/d/1_fFcO0xyM6P4fQI1NOBX7k7wxrJPK71l/view?usp=sharing**
+<!-- - 📄 Know about my experiences **https://drive.google.com/file/d/1_fFcO0xyM6P4fQI1NOBX7k7wxrJPK71l/view?usp=sharing** -->
 
 
 </div><h3 align="left">Connect with me:</h3>
